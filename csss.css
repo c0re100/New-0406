@@ -1,0 +1,35 @@
+a:link	 {font-size: 9pt; text-decoration:none; color:#cc6600 }
+a:visited {font-size: 9pt; text-decoration:none; color:#666666 }
+a:active  {font-size: 9pt; text-decoration:none; color:#ff3300 }
+a:hover	 {font-size: 9pt; text-decoration:underline; color:; }
+body,tr,td { font-size: 9pt}
+.textbox {font-family: Tahoma,Verdana,Arial,新細明體; BACKGROUND: #FFFFFF; cursor: hand; font-size: 9pt; border-width:1; border-color:000000; border-style:solid; color=#FFFFFF; background-image: url('daypic/bg.gif')}
+DIV {font-family: Tahoma,Verdana,Arial,新細明體}
+TEXTAREA {font-family: Tahoma,Verdana,Arial,新細明體; BACKGROUND: #FFFFFF; cursor: hand; font-size: 9pt; border-width:1; border-color:000000; border-style:solid; color=#000000;}
+input {font-family: Tahoma,Verdana,Arial,新細明體; BACKGROUND: #FFFFFF; cursor: hand; font-size: 9pt; border-width:1; border-color:000000; border-style:solid; color=#000000;}
+BODY 
+{ 
+scrollbar-base-color: #E7E7DF; 
+scrollbar-arrow-color: #000000;
+scrollbar-DarkShadow-Color: #DEDEDC;
+}
+.td0rr {
+font-size:8pt;
+color:#000000;
+border-width:0px;
+padding:0px;
+}
+
+.td1rr {
+width:10px;
+height:10px;
+border-width:0px;
+color:#cc0000;
+font-size:9pt;
+}
+
+.hr1rr {
+border-color:#000000;
+border-width:1px;
+border-style:dashed;
+}

@@ -1,0 +1,22 @@
+body {  font-family: "新細明體"; font-size: 12px;SCROLLBAR-HIGHLIGHT-COLOR: 
+buttonface; SCROLLBAR-SHADOW-COLOR: buttonface; SCROLLBAR-3DLIGHT-COLOR: buttonhighlight; 
+SCROLLBAR-TRACK-COLOR: #eeeeee; SCROLLBAR-DARKSHADOW-COLOR: buttonshadow}
+td {  font-family: "新細明體"; font-size: 12px; line-height: 140%}
+.a1 {  color: #000000; text-decoration: none}
+.a1:hover {  color: #FFCC00; text-decoration: none}
+.a2 {  color: #000000; text-decoration: none}
+.a2:hover {  color: #0000FF; text-decoration: none}
+.a3 {  color: #000000; text-decoration: underline}
+.a3:hover {  color: #FF0000; text-decoration: underline}
+.big {  font-family: "新細明體"; font-size: 10.5pt}
+.en {  font-family: "Tahoma"; font-size: 11px}
+a {  color: #000000; text-decoration:none }
+a:hover {  color: #0000FF; text-decoration: underline}
+.text {font-size: 12px; border: 1 solid #000000}
+.button{font: 9pt "Tahoma", "MS Shell Dlg";border: 1 solid #000000}
+.input {font-size: 12px; border: 1 solid #000000;width:90px}
+.s {font-size: 12px;width:110px}
+select       { background-color: #E7FDFE; font-size: 9pt; border-left: medium solid #999900; 
+               border-right: medium solid #FFCC66; 
+               border-top: medium solid #999900; 
+               border-bottom: medium solid #FFCC66 }

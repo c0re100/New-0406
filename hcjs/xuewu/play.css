@@ -1,0 +1,42 @@
+BODY {
+FONT-SIZE: 12px; LINE-HEIGHT: 22px
+}
+TABLE {
+FONT-SIZE: 12px; LINE-HEIGHT: 21px
+}
+A:link {
+COLOR: #0033cc; TEXT-DECORATION: none
+}
+A:visited {
+COLOR: #0033cc; TEXT-DECORATION: none
+}
+A:active {
+COLOR: #0000ff; TEXT-DECORATION: none
+}
+A:hover {
+COLOR: #ff6666; TEXT-DECORATION: underline
+}
+.css A:link {
+COLOR: #000000; TEXT-DECORATION: none
+}
+.css A:visited {
+COLOR: #000000; TEXT-DECORATION: none
+}
+.css A:active {
+BACKGROUND-COLOR: #ccffcc; COLOR: #000000; TEXT-DECORATION: none
+}
+.css A:hover {
+BACKGROUND-COLOR: #ccffcc; COLOR: #000000; TEXT-DECORATION: none
+}
+.tab A:link {
+COLOR: #0000cc; TEXT-DECORATION: none
+}
+.tab A:visited {
+COLOR: #0000cc; TEXT-DECORATION: none
+}
+.tab A:active {
+COLOR: #0000cc; TEXT-DECORATION: none
+}
+.tab A:hover {
+COLOR: #0000cc; TEXT-DECORATION: none
+}

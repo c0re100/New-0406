@@ -1,0 +1,37 @@
+本插件新增功能：
+
+1.釣魚隨機獲得流星、龍珠或流星淚．
+
+2.釣魚隨機獲得金幣或會費．
+
+3.如想刪除某部份隨機獲得的物品請通知本人，如果懂程式的不需
+
+用法說明:
+
+解壓縮後把所有東西(除了說明檔)覆蓋舊檔上傳便可
+
+修改說明:
+
+開啟DIAO.asp及DIAOYUOK.asp
+
+找出
+
+if sj<0 then
+ss=0-sj
+rs.close
+set rs=nothing
+conn.close
+set conn=nothing
+	Response.Write "<script Language=Javascript>alert('請等上"&ss&"分再來釣魚吧！');location.href = 'javascript:history.go(-1)';</script>"
+	Response.End
+end if
+
+在if sj<0 then及ss=0-sj修改為你喜歡限制的時間，單位以分鐘計，即0代表0分鐘，1代表1分鐘......如此類推
+
+聯絡方法:
+
+e-mail:hkstarjh@yahoo.com.hk
+
+icq:174845026
+
+                            本程式由星之旅(即香港星空江湖聯盟之站長)個人修改，版權屬星之旅所有

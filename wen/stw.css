@@ -1,0 +1,453 @@
+BODY.club {
+	BACKGROUND-COLOR: #000000; MARGIN: 0px
+}
+BODY.club A:link {
+	COLOR: #ffff00; FONT-FAMILY: Fixedsys,新細明體; TEXT-DECORATION: none
+}
+BODY.club A:hover {
+	COLOR: #00ff00; FONT-FAMILY: Fixedsys,新細明體; TEXT-DECORATION: none
+}
+BODY.club A:visited {
+	COLOR: #ffff00; FONT-FAMILY: Fixedsys,新細明體; TEXT-DECORATION: none
+}
+BODY.club A:active {
+	COLOR: #ffff00; FONT-FAMILY: Fixedsys,新細明體; TEXT-DECORATION: none
+}
+.onlinemsg {
+	COLOR: #ff0000; FONT-FAMILY: Fixedsys,新細明體
+}
+BODY.main {
+	BACKGROUND-COLOR: #000000; MARGIN: 3px
+}
+.tool {
+	COLOR: #00ff00; FONT-FAMILY: 新細明體; FONT-SIZE: 10.5pt
+}
+.tool A {
+	COLOR: #ffff00; TEXT-DECORATION: none
+}
+.tool A:hover {
+	COLOR: #00ffff; TEXT-DECORATION: none
+}
+.tool TABLE.line {
+	BORDER-BOTTOM: #42428f 10px solid; BORDER-LEFT: #42428f 10px solid; BORDER-RIGHT: #42428f 10px solid; BORDER-TOP: #42428f 10px solid
+}
+.tool TD.line {
+	BACKGROUND-COLOR: #2f2f4f; BORDER-BOTTOM: #2f2f4f 10px solid; BORDER-LEFT: #2f2f4f 10px solid; BORDER-RIGHT: #2f2f4f 10px solid; BORDER-TOP: #2f2f4f 10px solid
+}
+.tool .over {
+	COLOR: #000000
+}
+.tool .note {
+	COLOR: #ff0000
+}
+.tool .new {
+	COLOR: #ff0000; FONT-FAMILY: Fixedsys
+}
+.menu {
+	COLOR: #a8a8a8; FONT-SIZE: 12pt
+}
+.menu TD {
+	COLOR: #a8a8a8; FONT-SIZE: 12pt
+}
+.menu A {
+	COLOR: #cc9933; TEXT-DECORATION: none
+}
+.menu A:hover {
+	COLOR: #ff0000; TEXT-DECORATION: none
+}
+.menu TABLE.m {
+	BORDER-BOTTOM: #000000 0px solid; BORDER-LEFT: #000000 0px solid; BORDER-RIGHT: #000000 0px solid; BORDER-TOP: #000000 0px solid
+}
+.menu TD.m {
+	BACKGROUND-COLOR: #2f2f4f; BORDER-BOTTOM: #2f2f4f 10px solid; BORDER-LEFT: #2f2f4f 10px solid; BORDER-RIGHT: #2f2f4f 10px solid; BORDER-TOP: #2f2f4f 10px solid; COLOR: #42428f; FONT-FAMILY: 新細明體; FONT-SIZE: 10.5pt
+}
+.menu TD.line {
+	BACKGROUND-COLOR: #42428f; BORDER-BOTTOM: #42428f 10px solid; BORDER-LEFT: #42428f 10px solid; BORDER-RIGHT: #42428f 10px solid; BORDER-TOP: #42428f 10px solid
+}
+.menu HR {
+	COLOR: #42428f
+}
+.title TD {
+	BACKGROUND-COLOR: #000000; COLOR: #a8a8a8; FONT-FAMILY: Fixedsys; FONT-SIZE: 12pt
+}
+.title A {
+	COLOR: #a8a8a8; TEXT-DECORATION: none
+}
+.title A:hover {
+	COLOR: #ff0000; TEXT-DECORATION: none
+}
+.title A:visited {
+	COLOR: #676767; TEXT-DECORATION: none
+}
+.title TABLE.line {
+	BORDER-BOTTOM: #000000 0px solid; BORDER-LEFT: #000000 0px solid; BORDER-RIGHT: #000000 0px solid; BORDER-TOP: #000000 0px solid
+}
+.title TD.title {
+	BACKGROUND-COLOR: #42428f; BORDER-BOTTOM: #42428f 1px solid; BORDER-LEFT: #42428f 1px solid; BORDER-RIGHT: #42428f 1px solid; BORDER-TOP: #42428f 1px solid; COLOR: #8f8fbd; FONT-FAMILY: 新細明體; FONT-SIZE: 9pt
+}
+.title .New {
+	COLOR: #ff0000; FONT-FAMILY: Fixedsys; FONT-SIZE: 12pt
+}
+.title .doc {
+	COLOR: #00ffff; FONT-FAMILY: Fixedsys; FONT-SIZE: 12pt
+}
+.title .top {
+	COLOR: #00ff00; FONT-FAMILY: Fixedsys; FONT-SIZE: 12pt
+}
+.title .base {
+	COLOR: #ffff00; FONT-FAMILY: Fixedsys; FONT-SIZE: 12pt
+}
+.title .note {
+	COLOR: #ff0000
+}
+.title .rid {
+	COLOR: #00ffff
+}
+.title .frist {
+	COLOR: #ffff00
+}
+.list TD {
+	BACKGROUND-COLOR: #000000; COLOR: #a8a8a8; FONT-FAMILY: Fixedsys; FONT-SIZE: 12pt
+}
+.list A {
+	COLOR: #a8a8a8; TEXT-DECORATION: none
+}
+.list A:hover {
+	COLOR: #ff0000; TEXT-DECORATION: none
+}
+.list TABLE.line {
+	BORDER-BOTTOM: #000000 0px solid; BORDER-LEFT: #000000 0px solid; BORDER-RIGHT: #000000 0px solid; BORDER-TOP: #000000 0px solid
+}
+.list TD.title {
+	BACKGROUND-COLOR: #42428f; BORDER-BOTTOM: #42428f 1px solid; BORDER-LEFT: #42428f 1px solid; BORDER-RIGHT: #42428f 1px solid; BORDER-TOP: #42428f 1px solid; COLOR: #8f8fbd; FONT-FAMILY: 新細明體; FONT-SIZE: 9pt
+}
+.list .New {
+	COLOR: #ff0000; FONT-FAMILY: Fixedsys; FONT-SIZE: 12pt
+}
+.list .note {
+	COLOR: #ff0000
+}
+.list .top {
+	COLOR: #ffffff
+}
+.list .hide {
+	COLOR: #0000ff
+}
+.list .friend {
+	COLOR: #00ff00
+}
+.read TD {
+	BACKGROUND-COLOR: #000000; COLOR: #a8a8a8; FONT-FAMILY: Fixedsys; FONT-SIZE: 12pt
+}
+.read A {
+	COLOR: #e6e8fa; TEXT-DECORATION: none
+}
+.read A:hover {
+	COLOR: #ff0000; TEXT-DECORATION: none
+}
+.read TABLE.top {
+	BORDER-BOTTOM: #2f2f4f 2px solid; BORDER-LEFT: #2f2f4f 2px solid; BORDER-RIGHT: #2f2f4f 2px solid; BORDER-TOP: #2f2f4f 2px solid
+}
+.read TD.top {
+	BACKGROUND-COLOR: #2f2f4f; BORDER-BOTTOM: #2f2f4f 10px solid; BORDER-LEFT: #2f2f4f 10px solid; BORDER-RIGHT: #2f2f4f 10px solid; BORDER-TOP: #2f2f4f 10px solid; COLOR: #a8a8a8; FONT-FAMILY: Fixedsys
+}
+.read TABLE.line {
+	BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid; BORDER-RIGHT: #000000 2px solid; BORDER-TOP: #000000 2px solid
+}
+.read .from {
+	COLOR: #0000ff
+}
+.read .sys {
+	COLOR: #00ffff
+}
+.read .www {
+	COLOR: #00ff00
+}
+.read .from1 {
+	COLOR: #0000ff
+}
+.read .ip {
+	COLOR: #00ffff
+}
+.read .Re {
+	COLOR: #5f9f9f
+}
+.comein {
+	COLOR: #a8a8a8; FONT-FAMILY: Fixedsys; FONT-SIZE: 12pt
+}
+.comein TD {
+	COLOR: #a8a8a8; FONT-FAMILY: Fixedsys; FONT-SIZE: 12pt
+}
+.comein A {
+	COLOR: #238e68; TEXT-DECORATION: none
+}
+.comein A:hover {
+	COLOR: #00ff00; TEXT-DECORATION: none
+}
+.comein TABLE.top {
+	BORDER-BOTTOM: #42428f 2px solid; BORDER-LEFT: #42428f 2px solid; BORDER-RIGHT: #42428f 2px solid; BORDER-TOP: #42428f 2px solid
+}
+.comein TD.top {
+	BACKGROUND-COLOR: #42428f; BORDER-BOTTOM: #42428f 20px solid; BORDER-LEFT: #42428f 20px solid; BORDER-RIGHT: #42428f 20px solid; BORDER-TOP: #42428f 20px solid; COLOR: #a8a8a8; FONT-FAMILY: Fixedsys
+}
+.comein PRE {
+	COLOR: #ff0000; FONT-FAMILY: Fixedsys; FONT-SIZE: 12pt
+}
+.comein .note {
+	COLOR: #ffff00
+}
+.comein .new {
+	COLOR: #ff0000
+}
+.post TD {
+	BACKGROUND-COLOR: #2f2f4f; BORDER-BOTTOM: #2f2f4f 2px solid; BORDER-LEFT: #2f2f4f 2px solid; BORDER-RIGHT: #2f2f4f 2px solid; BORDER-TOP: #2f2f4f 2px solid; COLOR: #f8a8a8; FONT-FAMILY: 新細明體; FONT-SIZE: 9pt
+}
+.post A {
+	COLOR: #e6e8fa; TEXT-DECORATION: none
+}
+.post A:hover {
+	COLOR: #ff0000; TEXT-DECORATION: none
+}
+.post TABLE.line {
+	BORDER-BOTTOM: #42428f 10px solid; BORDER-LEFT: #42428f 10px solid; BORDER-RIGHT: #42428f 10px solid; BORDER-TOP: #42428f 10px solid
+}
+.post TD.title {
+	BACKGROUND-COLOR: #42428f; BORDER-BOTTOM: #42428f 2px solid; BORDER-LEFT: #42428f 2px solid; BORDER-RIGHT: #42428f 2px solid; BORDER-TOP: #42428f 2px solid; COLOR: #a8a8a8; FONT-FAMILY: Fixedsys; FONT-SIZE: 12pt
+}
+.post TD.doc {
+	COLOR: #a8a8a8; FONT-FAMILY: Fixedsys; FONT-SIZE: 9pt
+}
+.post TD.MS {
+	COLOR: #00ff00; FONT-FAMILY: MS Sans Serif
+}
+.post .n {
+	COLOR: #ff0000
+}
+.post .note {
+	COLOR: #ffff00
+}
+.post .name {
+	COLOR: #00ff00
+}
+.come TD {
+	BACKGROUND-COLOR: #2f2f4f; BORDER-BOTTOM: #2f2f4f 10px solid; BORDER-LEFT: #2f2f4f 10px solid; BORDER-RIGHT: #2f2f4f 10px solid; BORDER-TOP: #2f2f4f 10px solid; COLOR: #00ff00; FONT-FAMILY: Fixedsys; FONT-SIZE: 12pt
+}
+.come A {
+	COLOR: #ffff00; TEXT-DECORATION: none
+}
+.come A:hover {
+	COLOR: #ff0000; TEXT-DECORATION: none
+}
+.come TABLE.line {
+	BORDER-BOTTOM: #42428f 10px solid; BORDER-LEFT: #42428f 10px solid; BORDER-RIGHT: #42428f 10px solid; BORDER-TOP: #42428f 10px solid
+}
+.come PRE {
+	COLOR: #ffffff; FONT-FAMILY: Fixedsys; FONT-SIZE: 12pt
+}
+BODY.guest {
+	BACKGROUND-COLOR: #000000; MARGIN: 3px
+}
+.guest TD {
+	COLOR: #a8a8a8; FONT-FAMILY: Fixedsys; FONT-SIZE: 12pt
+}
+.guest A {
+	COLOR: #e6e8fa; TEXT-DECORATION: none
+}
+.guest A:hover {
+	COLOR: #ff0000; TEXT-DECORATION: none
+}
+.guest TABLE.line {
+	BORDER-BOTTOM: #42428f 10px double; BORDER-LEFT: #42428f 10px double; BORDER-RIGHT: #42428f 10px double; BORDER-TOP: #42428f 10px double
+}
+.guest TD.line {
+	BACKGROUND-COLOR: #2f2f4f; BORDER-BOTTOM: #2f2f4f 10px solid; BORDER-LEFT: #2f2f4f 10px solid; BORDER-RIGHT: #2f2f4f 10px solid; BORDER-TOP: #2f2f4f 10px solid
+}
+.guest TD.name {
+	BACKGROUND-COLOR: #000000; COLOR: #00ff00
+}
+.guest TD.time {
+	BACKGROUND-COLOR: #000000; COLOR: #00ff00
+}
+.guest .time {
+	COLOR: #00ffff
+}
+.guest HR {
+	COLOR: #42428f
+}
+BODY.msg {
+	BACKGROUND-COLOR: #2f2f4f; MARGIN: 1px
+}
+.msg TD {
+	BACKGROUND-COLOR: #000000; COLOR: #00ff00; FONT-FAMILY: Fixedsys; FONT-SIZE: 12pt
+}
+.msg A {
+	COLOR: #e6e8fa; TEXT-DECORATION: none
+}
+.msg A:hover {
+	COLOR: #ff0000; TEXT-DECORATION: none
+}
+.msg TABLE.line {
+	BORDER-BOTTOM: #42428f 2px solid; BORDER-LEFT: #42428f 2px solid; BORDER-RIGHT: #42428f 2px solid; BORDER-TOP: #42428f 2px solid
+}
+.msg TD.line {
+	BACKGROUND-COLOR: #2f2f4f; BORDER-BOTTOM: #2f2f4f 3px solid; BORDER-LEFT: #2f2f4f 3px solid; BORDER-RIGHT: #2f2f4f 3px solid; BORDER-TOP: #2f2f4f 3px solid
+}
+.msg TABLE.DOC {
+	BORDER-BOTTOM: #42428f 2px solid; BORDER-LEFT: #42428f 2px solid; BORDER-RIGHT: #42428f 2px solid; BORDER-TOP: #42428f 2px solid
+}
+.msg TD.DOC {
+	BACKGROUND-COLOR: #2f2f4f; BORDER-BOTTOM: #2f2f4f 3px solid; BORDER-LEFT: #2f2f4f 3px solid; BORDER-RIGHT: #2f2f4f 3px solid; BORDER-TOP: #2f2f4f 3px solid
+}
+.msg .time {
+	COLOR: #ffff00
+}
+.msg .name {
+	COLOR: #00ffff
+}
+.msg .send {
+	COLOR: #0000ff
+}
+.msg .note {
+	COLOR: #ff0000
+}
+BODY.chat {
+	BACKGROUND-COLOR: #000000; COLOR: #a8a8a8; MARGIN: 3px
+}
+BODY.chatin {
+	BACKGROUND-COLOR: #000000; BACKGROUND-IMAGE: url(../menu2/bbk.gif); MARGIN: 7px
+}
+.chat {
+	FONT-FAMILY: Fixedsys; FONT-SIZE: 12pt
+}
+.chat A {
+	COLOR: #e6e8fa; TEXT-DECORATION: none
+}
+.chat A:hover {
+	COLOR: #ff0000; TEXT-DECORATION: none
+}
+.chat TD.title {
+	BACKGROUND-COLOR: #42428f; COLOR: #8f8fbd
+}
+.chat TD {
+	FONT-FAMILY: Fixedsys; FONT-SIZE: 12pt
+}
+.chat .tnote {
+	COLOR: #ff0000
+}
+.chat .tnick {
+	COLOR: #00ffff
+}
+.chat .tname {
+	COLOR: #00ff00
+}
+.chat .tip {
+	COLOR: #ff0000
+}
+.chat .troom {
+	COLOR: #ffff00
+}
+.chat .emote {
+	COLOR: #8080ff
+}
+.chat .ename1 {
+	COLOR: #ffff00
+}
+.chat .ename2 {
+	COLOR: #00ff00
+}
+.chat .m {
+	COLOR: #ff8080
+}
+.chat .sys {
+	COLOR: #ff0000
+}
+.chat .sysnote {
+	COLOR: #8080ff
+}
+.chat .name {
+	COLOR: #00ff00
+}
+.chat .mao {
+	COLOR: #ffff00
+}
+.chat .lock {
+	COLOR: #ff0000
+}
+.chat .mm {
+	COLOR: #0000ff
+}
+.chat .say {
+	FONT-FAMILY: Fixedsys
+}
+.chat SELECT {
+	FONT-FAMILY: Fixedsys
+}
+.text {
+	BACKGROUND-COLOR: #333333; BORDER-BOTTOM: #42428f 5px double; BORDER-LEFT: #42428f 5px double; BORDER-RIGHT: #42428f 5px double; BORDER-TOP: #42428f 5px double; COLOR: #a8a8a8; FONT-FAMILY: Fixedsys; FONT-SIZE: 12pt
+}
+.button {
+	BACKGROUND-COLOR: #333333; BORDER-BOTTOM: #42428f 5px double; BORDER-LEFT: #42428f 5px double; BORDER-RIGHT: #42428f 5px double; BORDER-TOP: #42428f 5px double; COLOR: #ffff00; FONT-FAMILY: 新細明體; FONT-SIZE: 10.5pt
+}
+.box {
+	BACKGROUND-COLOR: #333333; BORDER-BOTTOM: #42428f 3px outset; BORDER-LEFT: #42428f 3px outset; BORDER-RIGHT: #42428f 3px outset; BORDER-TOP: #42428f 3px outset; COLOR: #a8a8a8
+}
+.radio {
+	BACKGROUND-COLOR: #333333; BORDER-BOTTOM: #42428f 3px outset; BORDER-LEFT: #42428f 3px outset; BORDER-RIGHT: #42428f 3px outset; BORDER-TOP: #42428f 3px outset; COLOR: #a8a8a8
+}
+SELECT {
+	BACKGROUND-COLOR: #333333; COLOR: #a8a8a8; FONT-FAMILY: 新細明體; FONT-SIZE: 10.5pt
+}
+SELECT.doc {
+	BACKGROUND-COLOR: #333333; COLOR: #a8a8a8; FONT-FAMILY: Fixedsys; FONT-SIZE: 12pt
+}
+TEXTAREA {
+	BACKGROUND-COLOR: #333333; BORDER-BOTTOM: #42428f 5px ridge; BORDER-LEFT: #42428f 5px ridge; BORDER-RIGHT: #42428f 5px ridge; BORDER-TOP: #42428f 5px ridge; COLOR: #a8a8a8; FONT-FAMILY: Fixedsys; FONT-SIZE: 12pt
+}
+HR {
+	COLOR: #2f2f4f
+}
+PRE {
+	COLOR: #ff0000; FONT-FAMILY: Fixedsys; FONT-SIZE: 12pt
+}
+.iname {
+	COLOR: #00ff00
+}
+.yname {
+	COLOR: #00ffff
+}
+.emote {
+	COLOR: #8080ff
+}
+.room {
+	COLOR: #ffff00
+}
+.lock {
+	COLOR: #ff0000
+}
+.note {
+	COLOR: #ffff00
+}
+.c0 {
+	COLOR: #000000
+}
+.c1 {
+	COLOR: #ff0000
+}
+.c2 {
+	COLOR: #00cc00
+}
+.c3 {
+	COLOR: #ffff00
+}
+.c4 {
+	COLOR: #0000ff
+}
+.c5 {
+	COLOR: #8080ff
+}
+.c6 {
+	COLOR: #00ffff
+}
+.c7 {
+	COLOR: #e6e8fa
+}

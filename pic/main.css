@@ -1,0 +1,30 @@
+body {  
+SCROLLBAR-HIGHLIGHT-COLOR: #996633; 
+SCROLLBAR-SHADOW-COLOR:#996633;
+SCROLLBAR-ARROW-COLOR:#996633;
+SCROLLBAR-TRACK-COLOR: #BD9466;
+background-image: url(image/bg.gif); }
+td {  font-size: 9pt; line-height: 150%}
+a {  font-size: 9pt; color: #000000; text-decoration: none}
+a:hover {  color: #FF0000; text-decoration: none}
+a:active {  color: #660000}
+a.wzt {  color: #FFFbdd}
+a.wzt:hover {  text-decoration: none; color: #FFCC00}
+a.bar {  color: #000000; text-decoration: none; font-family: "Arial", "Helvetica", "sans-serif"}
+a.redb {  color: #FF0000}
+a.redb:hover {  text-decoration: none; color: #FF00FF}
+a.bar:hover {  text-decoration: none; color: #FF3300}
+.e {  font-family: "Arial", "Helvetica", "sans-serif"}
+.txtfld2 {
+BORDER-RIGHT: 1px outset; BORDER-TOP: 1px outset; FONT-SIZE: 9pt; BORDER-LEFT: 1px outset; BORDER-BOTTOM: 1px outset; BACKGROUND-COLOR: #BD9466
+; vertical-align: sub
+; font-family: "Arial", "Helvetica", "sans-serif"
+}
+.textbox { 
+FONT-SIZE: 9pt; 
+BORDER-BOTTOM: #692f21 1px solid;
+BORDER-LEFT: #692f21 1px solid; 
+BORDER-RIGHT: #692f21 1px solid;
+BORDER-TOP: #692f21 1px solid;
+BACKGROUND-COLOR: #fffbdd;
+}

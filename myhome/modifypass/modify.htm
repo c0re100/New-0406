@@ -1,0 +1,47 @@
+ 
+<html>
+<head><meta http-equiv="cnntent-Type" cnntent="text/html; charset=big5"> 
+<title>修改密碼</title>
+<style type="text/css">
+body,td{font-size:14; color:#000000}
+select,input{font-size:14; color:#000000}
+</style>
+</head>
+<body>
+<table>
+</table>
+<center>
+<p><font size="5" color="yellow" face="黑體">修改密碼</font></p>
+<table border=1 bgcolor="#FFCC99" align=center width=350 cellpadding="10" cellspacing="13">
+<tr><td bgcolor=#BEE0FC>
+<table bgcolor="#BEE0FC" bordercolor="#FFFF00" border="0"><tr><td>
+<form method=POST action='modify.asp'>
+<div align="center">
+
+原密碼：
+<input type=password name=oldpass size=12 maxlength="12">
+<br>
+新密碼：
+<input type=password name=pass size=12 maxlength="12">
+<br>
+確 認：
+<input type=password name=repass size=12 maxlength="12">
+<br>
+<input type=submit value=修改 name="submit">
+</div>
+</form></td></tr>
+<tr>
+<td align=center>&nbsp; </td>
+</tr>
+<tr><td style='color:red;font-size:9pt'>
+說明：<br>
+由於IE5會記錄輸入的密碼，<br>
+請在網吧上網的朋友通過“清除歷史記錄”<br>
+來刪除記錄！以免帳號被盜用
+</td></tr>
+</table>
+</table>
+
+</center>
+</body>
+</html>

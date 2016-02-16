@@ -1,0 +1,95 @@
+body,td{
+	font-family:新細明體,Arial;
+	color: Black;
+	font-size:12px;
+	line-height: 150%;
+}
+
+.line2{
+	line-height: 150%;
+}
+.title{
+	font-size: 20 px;
+	color: #330099;
+	font-family: 新細明體;
+	font-weight: bolder;
+	text-decoration: none;
+}
+.tool{
+	font-size: 8 pt;
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	color=#FFFFFF
+}
+.code{
+	font-family : "Courier New", Courier, monospace;
+	background-color : White;
+	filter:alpha(opacity=40,style=0);
+	color : #00008B;
+}
+.screen{
+	font-family : "Courier New", Courier, monospace;
+	background-color : #2F4F4F;
+	color : #F0F8FF;
+}
+.news{
+	font-family : Arial, Helvetica, sans-serif;
+	background-color : #e4efc5;
+}
+.exp{
+	font-family : sans-serif;
+	background-color : #ffffcc;
+}
+.td_code{
+	font-family : "Courier New", Courier, monospace;
+}
+.noBorder{
+	background-color: #fefefe;
+	border : none;
+}
+.tinyBorder{
+	font-family:新細明體,Arial;
+	font-size:9 pt;
+	border : solid ffcc00 1;
+}
+.form_small{
+	font-size:8pt;
+	line-height: 100%;
+}
+.code_textarea{
+	font-family: MS Sans Serif;
+	width: 98 %;
+	color: #334050;
+	font-size: 7pt;
+	background-color: #FFFFFF;
+	padding:3px;
+	border : solid Gray 1;
+}
+.submit_small{
+	font-size:8pt;
+}
+.nolh{
+	font-size:8pt;
+}
+
+.small{
+	font-size:8pt;
+}
+.redword {color:#ff6633;}
+.blueword {color:#0099ff;}
+.greenword {color:#009900;}
+.gword {color:#6c6c6c;}
+.pword {color:#ff3399;}
+.whiteword{color:#ffffff;}
+
+A:link {
+	color: #263382;
+	text-decoration: none
+}
+A:visited {
+	color: #000042;
+	text-decoration: none
+}
+A:hover {
+	color: #4F66B7;
+	text-decoration: underline
+}

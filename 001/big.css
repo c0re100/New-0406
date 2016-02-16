@@ -1,0 +1,24 @@
+.big {
+	FONT-SIZE: 14px; LINE-HEIGHT: 130%; FONT-STYLE: normal; FONT-FAMILY: "Arial", "Helvetica", "sans-serif"
+}
+A:link {
+	COLOR: #000000; FONT-FAMILY: "Arial", "Helvetica", "sans-serif"
+}
+A:visited {
+	COLOR: #000000; FONT-FAMILY: "Arial", "Helvetica", "sans-serif"
+}
+A:active {
+	FONT-FAMILY: "Arial", "Helvetica", "sans-serif":black
+}
+A:hover {
+	COLOR: #000000; TEXT-DECORATION: underline
+}
+TD {
+	FONT-SIZE: 14px; LINE-HEIGHT: 130%
+}
+P {
+	FONT-SIZE: 14px; LINE-HEIGHT: 130%
+}
+BODY {
+	FONT-SIZE: 14px; COLOR: #000000; LINE-HEIGHT: 130%; FONT-FAMILY: "Arial", "Helvetica", "sans-serif"
+}

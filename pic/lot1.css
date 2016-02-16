@@ -1,0 +1,20 @@
+
+.td {background-attachment: fixed; background-repeat: repeat-y}
+.zt01 {font-family: "·s²Ó©úÅé"; font-size: 9pt; color: #000000; text-decoration: none}
+.tab {background-attachment: fixed; background-repeat: no-repeat; background-position: center top}
+a:hover {color: #B50000; text-decoration: underline}
+.td01 {background-attachment: fixed; background-repeat: repeat-x}
+a {color: #000000; text-decoration: none}
+BODY {
+SCROLLBAR-FACE-COLOR: #fffbdd; FONT-SIZE: 9pt; 
+SCROLLBAR-HIGHLIGHT-COLOR: #692f21; 
+SCROLLBAR-SHADOW-COLOR:#692f21;
+SCROLLBAR-3DLIGHT-COLOR: #692f21; 
+SCROLLBAR-ARROW-COLOR:#692f21;
+SCROLLBAR-TRACK-COLOR: #692f21; 
+SCROLLBAR-DARKSHADOW-COLOR: #692f21
+}
+.skin1{cursor: default;font: menutext;position: absolute;width: 116px;background-color: menu;border: 1 solid buttonface;visibility:hidden;border: 1 outset buttonface;}
+.menuitems{padding-left:15px;padding-right:10px;}
+div {  font-size: 10.5pt ;line-height: 150%;}
+

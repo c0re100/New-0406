@@ -1,0 +1,72 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><TITLE>巧面街</TITLE><META content="text/html; charset=big5" http-equiv=Content-Type><META content=no-cache http-equiv=Pragma><LINK
+href="work_noodle/the9.css" rel=stylesheet>
+<SCRIPT src="work_noodle/head.js"></SCRIPT><SCRIPT src="work_noodle/the9.js"></SCRIPT><SCRIPT src="work_noodle/main.js"></SCRIPT><SCRIPT src="work_noodle/layer_obj.js"></SCRIPT><SCRIPT src="work_noodle/noodle.js"></SCRIPT><SCRIPT language=javascript>var time1=20;var time2=20;
+var t;
+function istime(){
+time1--;
+if (time1<=0){
+hideLayer('cont2')
+showLayer('cont4');
+}
+t = setTimeout("istime()",500);
+}
+function istime2(){
+time2--;
+if (time2<=0){
+hideLayer('cont4')
+showLayer('cont7');
+}
+clearTimeout(t);
+t = setTimeout("istime2()",500);
+}
+function step1(){
+hideLayer('cont6');
+showLayer('cont3');
+istime();
+}
+function step2(){
+hideLayer('cont3');
+showLayer('cont5');
+istime2();
+}
+function checksubmit() {
+clearTimeout(t);
+document.doform.submit();
+}
+</SCRIPT><META content="MSHTML 5.00.2614.3500" name=GENERATOR></HEAD><BODY bgColor=#fff3db leftMargin=0 scroll=auto topMargin=0 marginheight="0"
+marginwidth="0">
+<script language=JavaScript>var content1='';
+var content2='==<a href="m1.asp" onclick="step1()" class=ct-def3>放雞湯</a>==';
+var content3='<img src=m/begin.gif width="181" height="122">';
+var content4='==<a href="../m2.asp" onclick="step2()" class=ct-def3>加 料</a>==';
+var content5='<img src="m/jialiao.gif" width="181" height="122">';
+var content6='<img src="m/begin.gif">';
+var content7='==<a href=javascript:checksubmit(); class=ct-def3>起 鍋</a>==';
+createLayer('empty',0,0,0,0,false,content1);
+createLayer('cont2',65,173,91,23,true,content2);
+//createLayer('cont3',410,215,205,120,false,content3);
+createLayer('cont3',400,200,205,120,false,content3);
+createLayer('cont4',65,173,91,23,false,content4);
+createLayer('cont5',400,200,205,120,false,content5);
+//createLayer('cont5',40,215,205,120,false,content5);
+createLayer('cont6',400,200,205,120,true,content6);
+createLayer('cont7',65,173,91,23,false,content7);
+</script><TABLE border=0 cellPadding=0 cellSpacing=0 width="100%"><TBODY><TR bgColor=#cc3b25
+background="m/redbg.gif">
+<TD><TABLE background=work_noodle/bg1.gif border=0 cellPadding=0
+cellSpacing=0 width="100%">
+<TBODY><TR><TD><IMG height=166 src="work_noodle/empty.gif"
+width=1></TD></TR></TBODY></TABLE><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+<TABLE border=0 cellPadding=0 cellSpacing=0 width=300><TBODY><TR><TD><IMG height=1 src="work_noodle/empty.gif" width=40></TD><TD class=ct-def3><font color="#CCFFFF"><span class="ct-def2">還楞著干嘛？快點擊上面的鏈接啊，一碗好面也許就在不遠處了。</span><BR></font><font color="#FF3333"> </font></TD></TR></TBODY></TABLE><BR><BR><BR><BR></TD></TR></TBODY></TABLE><DIV id=desk
+style="HEIGHT: 113px; LEFT: 391px; POSITION: absolute; TOP: 310px; WIDTH: 283px"><IMG
+height=100 src="work_noodle/desk.gif" width=222></DIV>
+<DIV id=timeman
+style="HEIGHT: 140px; LEFT: 32px; POSITION: absolute; TOP: 166px; WIDTH: 137px"><IMG
+border=0 height=158 src="work_noodle/timeman.gif" useMap=#Map
+width=168> <MAP name=Map><AREA alt=淵博的知識 coords=134,115,25 shape=circle
+title=淵博的知識></MAP></DIV>
+<DIV id=Layer3 style="LEFT: 0px; POSITION: absolute; TOP: 27px; Z-INDEX: 1"><TABLE border=0 cellPadding=0 cellSpacing=0 width="100%"><TBODY><TR><TD align=middle><IMG height=44 src="work_noodle/qiao.gif"
+width=200></TD></TR></TBODY></TABLE></DIV><INPUT name=SubmitedDo type=hidden
+value=true>
+</BODY></HTML> 

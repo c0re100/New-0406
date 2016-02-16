@@ -1,0 +1,63 @@
+.jslogo {
+	PADDING-TOP: 25px
+}
+.jsmenu {
+	FONT-SIZE: 12px; LINE-HEIGHT: 18px; PADDING-TOP: 24px
+}
+A:link {
+	COLOR: #ffcc00; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #fd9104; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #ffff00; TEXT-DECORATION: none
+}
+.p9 {
+	FONT-SIZE: 12px; LINE-HEIGHT: 20px
+}
+.inputfont {
+	COLOR: #b57d29; FONT-SIZE: 12px
+}
+.yellowp9 {
+	COLOR: #c77e19; FONT-SIZE: 12px; LINE-HEIGHT: 20px
+}
+.yellowp14 {
+	COLOR: #c77e19; FONT-SIZE: 14px; LINE-HEIGHT: 20px
+}
+.textbg {
+	BACKGROUND-IMAGE: url(/images/page_text_bg.gif); BACKGROUND-POSITION: right bottom; BACKGROUND-REPEAT: no-repeat
+}
+.title {
+	COLOR: #990000; FONT-SIZE: 14px; FONT-WEIGHT: bolder; LINE-HEIGHT: 20pt
+}
+.p14 {
+	FONT-SIZE: 14px; LINE-HEIGHT: 25px
+}
+.p9black {
+	COLOR: black; FONT-SIZE: 12px; LINE-HEIGHT: 20px
+}
+.mountain {
+	BACKGROUND-IMAGE: url(/images/page_bottom_mountain.gif); BACKGROUND-POSITION: right bottom; BACKGROUND-REPEAT: no-repeat
+}
+.table1 {
+	BORDER-BOTTOM: #cc9933 1px outset; BORDER-LEFT: #cc9933 1px outset; BORDER-RIGHT: #cc9933 1px outset; BORDER-TOP: #cc9933 1px outset
+}
+.p9white {
+	COLOR: #ffffff; FONT-SIZE: 12px; LINE-HEIGHT: 20px
+}
+.p9gray {
+	COLOR: #808080; FONT-SIZE: 12px; LINE-HEIGHT: 20px
+}
+.p14white {
+	COLOR: #ffffff; FONT-SIZE: 14px; LINE-HEIGHT: 25px
+}
+A.p9a:link {
+	COLOR: #000099; FONT-SIZE: 12px; LINE-HEIGHT: 20px; TEXT-DECORATION: none
+}
+A.p9a:visited {
+	COLOR: #336699; FONT-SIZE: 12px; LINE-HEIGHT: 20px; TEXT-DECORATION: none
+}
+A.p9a:hover {
+	COLOR: #ff0000; FONT-SIZE: 12px; LINE-HEIGHT: 20px; TEXT-DECORATION: none
+}

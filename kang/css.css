@@ -1,0 +1,24 @@
+BODY {
+	FONT-SIZE: 9pt; COLOR: #000000; FONT-FAMILY: "新細明體"
+}
+TD {
+	FONT-SIZE: 9pt; COLOR: #000000; FONT-FAMILY: "新細明體"
+}
+A:link {
+	FONT-SIZE: 9pt; CURSOR: e-resize; COLOR: #cc0000; FONT-FAMILY: "新細明體"; TEXT-DECORATION: none
+}
+A:visited {
+	FONT-SIZE: 9pt; CURSOR: e-resize; COLOR: #cc0000; FONT-FAMILY: "新細明體"; TEXT-DECORATION: none
+}
+A:hover {
+	FONT-SIZE: 9pt; CURSOR: hand; COLOR: #ff0000; FONT-FAMILY: "新細明體"; TEXT-DECORATION: underline blink
+}
+SELECT {
+	BORDER-RIGHT: #ffcc66 solid; BORDER-TOP: #999900 solid; FONT-SIZE: 9pt; BORDER-LEFT: #999900 solid; BORDER-BOTTOM: #ffcc66 solid; BACKGROUND-COLOR: #ffcc00
+}
+INPUT {
+	BORDER-RIGHT: 1px groove; BORDER-TOP: 1px groove; FONT-SIZE: 9pt; BORDER-LEFT: 1px groove; COLOR: #ffffff; BORDER-BOTTOM: 1px groove; BACKGROUND-COLOR: #7292e4
+}
+TD {
+	
+}

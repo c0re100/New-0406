@@ -1,0 +1,153 @@
+.head-l {
+COLOR: #ffffff; FONT-FAMILY: 新細明體; FONT-SIZE: 12px; MARGIN-LEFT: 0px
+}
+.head-l:link {
+COLOR: #ffffff; CURSOR: hand; FONT-STYLE: normal; TEXT-DECORATION: underline
+}
+.head-l:visited {
+COLOR: #ffd441; FONT-STYLE: normal; TEXT-DECORATION: underline
+}
+.head-l:active {
+COLOR: #ffd441; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.head-l:hover {
+COLOR: #ffff33; FONT-STYLE: normal; TEXT-DECORATION: underline
+}
+.head-r {
+COLOR: #cccccc; FONT-FAMILY: 新細明體; FONT-SIZE: 12px; MARGIN-LEFT: 0px
+}
+.head-r:link {
+COLOR: #cccccc; CURSOR: hand; FONT-STYLE: normal; TEXT-DECORATION: underline
+}
+.head-r:visited {
+COLOR: #cccccc; FONT-STYLE: normal; TEXT-DECORATION: underline
+}
+.head-r:active {
+COLOR: #bd3c2b; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.head-r:hover {
+COLOR: #bd3c2b; FONT-STYLE: normal; TEXT-DECORATION: underline
+}
+.ct-left {
+COLOR: #000000; FONT-FAMILY: 新細明體; FONT-SIZE: 12px; LETTER-SPACING: 0px; LINE-HEIGHT: 1.3; MARGIN-LEFT: 0px
+}
+.ct-right {
+COLOR: #333333; FONT-FAMILY: 新細明體; FONT-SIZE: 12px; LETTER-SPACING: 0px; LINE-HEIGHT: 1.5; MARGIN-LEFT: 0px
+}
+.ct-def1 {
+COLOR: #333333; FONT-FAMILY: 新細明體; FONT-SIZE: 12px; LETTER-SPACING: 0px; LINE-HEIGHT: 1.5; MARGIN-LEFT: 0px
+}
+.ct-def2 {
+COLOR: #000000; FONT-FAMILY: 新細明體; FONT-SIZE: 12px; LETTER-SPACING: 0px; LINE-HEIGHT: 1.5; MARGIN-LEFT: 0px
+}
+.ct-def3 {
+COLOR: #000000; FONT-FAMILY: 新細明體; FONT-SIZE: 14px; LETTER-SPACING: 0px; LINE-HEIGHT: 1.2; MARGIN-LEFT: 0px
+}
+.ct-def4 {
+COLOR: #f77838; FONT-FAMILY: 新細明體; FONT-SIZE: 12px; LETTER-SPACING: 0px; LINE-HEIGHT: 1.5; MARGIN-LEFT: 0px
+}
+.ct-def4:link {
+COLOR: #f77838; CURSOR: hand; FONT-STYLE: normal; TEXT-DECORATION: underline
+}
+.ct-def4:visited {
+COLOR: #f77838; FONT-STYLE: normal; TEXT-DECORATION: underline
+}
+.ct-def4:active {
+COLOR: #f77838; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.ct-def4:hover {
+COLOR: #ff5500; FONT-STYLE: normal; TEXT-DECORATION: underline
+}
+.ct-def9 {
+COLOR: #000000; FONT-FAMILY: 新細明體; FONT-SIZE: 12px; LETTER-SPACING: 0px; LINE-HEIGHT: 1.5; MARGIN-LEFT: 0px
+}
+.ct-def9:link {
+COLOR: #333333; CURSOR: hand; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.ct-def9:visited {
+COLOR: #5b2c0b; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.ct-def9:active {
+COLOR: #5b510b; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.ct-def9:hover {
+COLOR: #ff5500; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.itemname {
+COLOR: #000000; FONT-FAMILY: 新細明體; FONT-SIZE: 14px; FONT-WEIGHT: 700; LETTER-SPACING: 0px
+}
+.newslist {
+COLOR: #333333; FONT-FAMILY: 新細明體; FONT-SIZE: 12px; LETTER-SPACING: 0px; LINE-HEIGHT: 1.5; MARGIN-LEFT: 0px
+}
+.newstopic {
+COLOR: #333333; FONT-FAMILY: 新細明體; FONT-SIZE: 14px; LETTER-SPACING: 0px; LINE-HEIGHT: 1.2; MARGIN-LEFT: 0px
+}
+.newstopic-h {
+COLOR: #333333; FONT-FAMILY: 新細明體; FONT-SIZE: 14px; FONT-WEIGHT: 700; LETTER-SPACING: 0px; LINE-HEIGHT: 1.5; MARGIN-LEFT: 0px
+}
+.newscontl {
+COLOR: #333333; FONT-FAMILY: 新細明體; FONT-SIZE: 14px; LETTER-SPACING: 0px; LINE-HEIGHT: 1.5; MARGIN-LEFT: 0px; TEXT-INDENT: 2em
+}
+.newsconts {
+COLOR: #333333; FONT-FAMILY: 新細明體; FONT-SIZE: 12px; LETTER-SPACING: 0px; LINE-HEIGHT: 1.5; MARGIN-LEFT: 0px; TEXT-INDENT: 2em
+}
+.newstopic-r {
+COLOR: #f77838; FONT-FAMILY: 新細明體; FONT-SIZE: 14px; FONT-WEIGHT: 700; LETTER-SPACING: 0px; LINE-HEIGHT: 1.2; MARGIN-LEFT: 0px
+}
+.newstopic-b {
+COLOR: #7a74c5; FONT-FAMILY: 新細明體; FONT-SIZE: 14px; FONT-WEIGHT: 700; LETTER-SPACING: 0px; LINE-HEIGHT: 1.2; MARGIN-LEFT: 0px
+}
+.newsconts-r {
+COLOR: #f77838; FONT-FAMILY: 新細明體; FONT-SIZE: 12px; LETTER-SPACING: 0px; LINE-HEIGHT: 1.2; MARGIN-LEFT: 0px; TEXT-INDENT: 2em
+}
+.ct-newtopic {
+COLOR: #333333; FONT-FAMILY: 新細明體; FONT-SIZE: 12px; LETTER-SPACING: 0px; LINE-HEIGHT: 1.5; MARGIN-LEFT: 1em
+}
+.ct-form1 {
+COLOR: #000000; FONT-FAMILY: 新細明體; FONT-SIZE: 12px
+}
+.ct-form2 {
+COLOR: #000000; FONT-FAMILY: 新細明體; FONT-SIZE: 14px
+}
+.e1 {
+COLOR: #000000; FONT-FAMILY: Arial, Verdana; FONT-SIZE: 10pt
+}
+.e2 {
+COLOR: #000000; FONT-FAMILY: Arial, Verdana; FONT-SIZE: 8pt
+}
+.calen-curr {
+COLOR: #cc0000; FONT-FAMILY: 新細明體; FONT-SIZE: 12px
+}
+.calen-light {
+COLOR: #0000ff; FONT-FAMILY: 新細明體; FONT-SIZE: 12px
+}
+.calen-light:link {
+COLOR: #0000ff; CURSOR: hand; FONT-STYLE: normal; TEXT-DECORATION: underline
+}
+.calen-light:visited {
+COLOR: #0000ff; FONT-STYLE: normal; TEXT-DECORATION: underline
+}
+.calen-light:active {
+COLOR: #0000ff; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.calen-light:hover {
+COLOR: #0000ff; FONT-STYLE: normal; TEXT-DECORATION: underline
+}
+A:link {
+COLOR: #333333; CURSOR: hand; FONT-STYLE: normal; TEXT-DECORATION: underline
+}
+A:visited {
+COLOR: #5b2c0b; FONT-STYLE: normal; TEXT-DECORATION: underline
+}
+A:active {
+COLOR: #5b510b; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+A:hover {
+COLOR: #ff5500; FONT-STYLE: normal; TEXT-DECORATION: underline
+}
+.gr {
+FILTER: alpha(opacity=60)
+}
+.gr1 {
+FILTER: alpha(opacity=0)
+}

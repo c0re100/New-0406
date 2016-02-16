@@ -1,0 +1,9 @@
+本江湖插件由小KP論壇提供(http://kk.dz.forumable.net/tc/index.php)
+ac:江湖總站
+密碼:123456
+江湖公告:
+ac:kp
+密碼:123456
+高管密碼:由config.asp更改
+再上傳就完成
+
